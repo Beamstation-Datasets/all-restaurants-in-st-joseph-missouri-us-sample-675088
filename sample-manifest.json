@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2d318b28-8c22-4818-867c-c05f970cef8e",
+  "export_job_id": "f3c9da21-d0e0-4f7c-b131-93a689a7b378",
   "id_short": 675088,
-  "published_at": "2026-04-22T07:53:04Z",
+  "published_at": "2026-04-29T07:56:39Z",
   "repo_name": "all-restaurants-in-st-joseph-missouri-us-sample-675088",
   "sample_asset_name": "beamstation_675088_restaurants-us-mo_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/675088/beamstation_675088_restaurants-us-mo_SAMPLE_DIST.csv",
-  "sample_records": 9,
-  "sample_sha256": "ad8bfd6e9978d0a6ef018d0fc91ab6cae4776c4c5f97d8b5e69ced192f0681da",
-  "sample_size_bytes": 51108,
-  "total_records": 98
+  "sample_records": 22,
+  "sample_sha256": "84a1b477fb7dfca5d1379b8a9188fab138fb445cde0d14bc48d4c46739694dd4",
+  "sample_size_bytes": 82605,
+  "total_records": 227
 }
